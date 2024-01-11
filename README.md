@@ -1,3 +1,3 @@
 HTML Project
 
-This page is made only HTML Code
+This page is made HTML Code only!
